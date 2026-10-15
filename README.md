@@ -29,14 +29,11 @@ I enjoy turning ideas into real, useful software by combining technical implemen
 
 ## Connect with me
 
-- Email: mounikasharmasugurthi@gmail.com
-- Phone: +91 83091 52472
 - LinkedIn: https://www.linkedin.com/in/mounika-sharma-sugurthi-93133b32a/
 - GitHub: https://github.com/chukku8
 
 ## Profile
 
 - Portfolio repo: https://github.com/chukku8/chukku8
-- Resume: [Download Resume](Mounika_resume.pdf)
 
 Thanks for visiting!
